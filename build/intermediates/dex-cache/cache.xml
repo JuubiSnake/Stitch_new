@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="d635ba0566039772656378e67a302aa3448f5c29">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/org.altbeacon-android-beacon-library-2.8.1_4b8cf55da6fc5016258ee97d010815bad3009274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cc0a0be86a7a944a926bdadec72d36b97e5424f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6d9a2401db18ade2eb2a1d15331a8a30d6cb0580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_829f9270e77374c16182125f629b70548c0c6dcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_d0a2804e844ae9745a16fc59361374c9030e73bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_b565927ababb1b06f290bfc42d7f2b0783746734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_d723198c761ff44a7e31918b048aaa0be41b7a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_ccee691dfa23f1fecbca668831863da3ea3892a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_de3b545edda0f7b4473e2b8788e0756f9d777569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_20ae2067fabdb4245f51132fba68840dfefb9309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2_f6c30896fe224037da21aaff1b549dc9b4e43c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_1e4ec2e91945ed9586745ab524c7fcd31863a1a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.1"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Users/matthewweller/AndroidStudioProjects/Stitch/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha3_4283a3815da9c7e587bd0db81b89934e9722cc4f.jar" />
+    </item>
+
+</items>

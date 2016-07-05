@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stitch</string>
+    <string name="ble_not_supported">Bluetooth Low Power is not supported by this device</string>
+</resources>
